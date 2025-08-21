@@ -13,9 +13,10 @@ This repository contains my personal notes and Jupyter notebooks on Python Desig
 4. Open the notebooks in Jupyter.
 
 ## a little tip :
-start with sample file have fun
+start with sample file have fun !!!
 
 
 ## Author
 Ilya Qadery
+
 
